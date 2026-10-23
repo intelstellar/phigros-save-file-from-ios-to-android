@@ -15,7 +15,7 @@ Preparation
  step 5: now with your savefile, u have to put it into your phigros game folder on android, for more detail u can read [this](https://docs.google.com/document/d/146J1Y0lNBkfpGsPZXp1gghk7dDFI3nK5_CWPtTTpHHo/edit?tab=t.7wadztfqe0tr) (basically copy your savefile into `/data/data/com.PigeonGames.Phigros/shared_prefs` and it's based on the phigros you have on your phone is global version or chinese version).<br>
  step 6: launch game and enjoy!
 
-p/s: https://www.reddit.com/r/jailbreak/comments/tc68ky/discussion_i_found_an_app_that_can_explore_ios/#lightbox found this on reddit, so basically there is a way to get your savefile from your iphone without jailbreaking it, but i haven't tried yet so i'm not really sure if it's gonna work)
+p/s: https://www.reddit.com/r/jailbreak/comments/tc68ky/discussion_i_found_an_app_that_can_explore_ios/#lightbox found this on reddit, so basically there is a way to get your savefile from your iphone without jailbreaking it, but i haven't tried yet so i'm not really sure if it's gonna work)<br>
 if you have any question, feel free to send me a msg to my discord lol (check my github readme)
 
 <img width="1536" height="1920" alt="image" src="https://github.com/user-attachments/assets/8555b091-f0b0-4874-86bf-d8a5deaf8274" />
