@@ -10,7 +10,7 @@ Preparation
 
  step 1: download the converter<br>
  step 2: open iphone -> open filza file manager -> follow this directory path `/var/mobile/Containers/Data/Application/Phigros/Library/Preferences/` -> find a file named `games.Pigeon.Phigros.plist` (this is the savefile), then u will have to transfer this file to your computer (upload it to your google drive is the easiest way).<br>
- step 3: after successfully transfer the savefile to your computer, open https://plist-viewer.com/ and drag your savefile into this website, then click on save file to xml button (the third button on the top left) to save it, then change your file name to `ios_save.plist` (very necessary).<br>
+ step 3: after successfully transferring the savefile to your computer, open https://plist-viewer.com/ and drag your savefile into this website, then click on save file to xml button (the third button on the top left) to save it, then change your file name to `ios_save.plist` (very necessary).<br>
  step 4: now u have to make sure that the ios_save.plist and the converter.py is in the same folder, then open a command prompt, type "py converter.py" then press enter and boom, now you have your savefile that is completely compatible with phigros android.<br>
  step 5: now with your savefile, u have to put it into your phigros game folder on android, for more detail u can read [this](https://docs.google.com/document/d/146J1Y0lNBkfpGsPZXp1gghk7dDFI3nK5_CWPtTTpHHo/edit?tab=t.7wadztfqe0tr) (basically copy your savefile into `/data/data/com.PigeonGames.Phigros/shared_prefs` and it's based on the phigros you have on your phone is global version or chinese version).<br>
  step 6: launch game and enjoy!
